@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QI5hukfTjZQG0ZvnZqpKJED4B62g5+URx425rkTgFu4jjEzxr3Rsj3XeNO/vo9Q4zbc6gJIpP6HqlYx+EvqucA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nadm\\source\\repos\\Laba4_2Sem\\Laba4_2Sem\\Laba4_2Sem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nadm\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

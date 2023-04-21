@@ -1,0 +1,17 @@
+C:\Users\Nadm\source\repos\Laba4_2Sem\2zavd\bin\Debug\net6.0\2zavd.exe
+C:\Users\Nadm\source\repos\Laba4_2Sem\2zavd\bin\Debug\net6.0\2zavd.deps.json
+C:\Users\Nadm\source\repos\Laba4_2Sem\2zavd\bin\Debug\net6.0\2zavd.runtimeconfig.json
+C:\Users\Nadm\source\repos\Laba4_2Sem\2zavd\bin\Debug\net6.0\2zavd.dll
+C:\Users\Nadm\source\repos\Laba4_2Sem\2zavd\bin\Debug\net6.0\2zavd.pdb
+C:\Users\Nadm\source\repos\Laba4_2Sem\2zavd\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Nadm\source\repos\Laba4_2Sem\2zavd\obj\Debug\net6.0\2zavd.csproj.AssemblyReference.cache
+C:\Users\Nadm\source\repos\Laba4_2Sem\2zavd\obj\Debug\net6.0\2zavd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadm\source\repos\Laba4_2Sem\2zavd\obj\Debug\net6.0\2zavd.AssemblyInfoInputs.cache
+C:\Users\Nadm\source\repos\Laba4_2Sem\2zavd\obj\Debug\net6.0\2zavd.AssemblyInfo.cs
+C:\Users\Nadm\source\repos\Laba4_2Sem\2zavd\obj\Debug\net6.0\2zavd.csproj.CoreCompileInputs.cache
+C:\Users\Nadm\source\repos\Laba4_2Sem\2zavd\obj\Debug\net6.0\2zavd.csproj.CopyComplete
+C:\Users\Nadm\source\repos\Laba4_2Sem\2zavd\obj\Debug\net6.0\2zavd.dll
+C:\Users\Nadm\source\repos\Laba4_2Sem\2zavd\obj\Debug\net6.0\refint\2zavd.dll
+C:\Users\Nadm\source\repos\Laba4_2Sem\2zavd\obj\Debug\net6.0\2zavd.pdb
+C:\Users\Nadm\source\repos\Laba4_2Sem\2zavd\obj\Debug\net6.0\2zavd.genruntimeconfig.cache
+C:\Users\Nadm\source\repos\Laba4_2Sem\2zavd\obj\Debug\net6.0\ref\2zavd.dll
